@@ -1,6 +1,5 @@
 hello
 
 on ubuntu
-
-this is online
+o ubuntu 2
 
