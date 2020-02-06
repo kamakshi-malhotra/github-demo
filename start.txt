@@ -4,4 +4,10 @@ on ubuntu
 o ubuntu 2
 on ubuntu3
 
+<<<<<<< HEAD
 
+=======
+this is online
+this is online2
+online3
+>>>>>>> 05384ee5b9de3e760b399095ab2db497da2427f8
